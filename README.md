@@ -7,6 +7,7 @@ We recommend using Google Colab and copying the notebook to your Google Drive:
 <a href="https://colab.research.google.com/github/PlusLabNLP/cs162-hw4-w25/blob/main/HW4.ipynb"><img alt="Colab Demo" src="https://img.shields.io/badge/​-Open%20in%20Colab-blue?logo=googlecolab&logoColor=F9AB00&style=flat"></a>
 
 ## Submission Instructions:
+* Do not modify any of the grading code.
 * After completing the assignment, download both the .ipynb and .py files. (Go to File → Download)
 * Submit both files on Gradescope under "Homework 4 - Coding".
 * Do not change the filenames—keep them as "HW4.ipynb" and "HW4.py".
