@@ -11,4 +11,5 @@ We recommend using Google Colab and copying the notebook to your Google Drive:
 * After completing the assignment, download both the .ipynb and .py files. (Go to File → Download)
 * Submit both files on Gradescope under "Homework 4 - Coding".
 * Do not change the filenames—keep them as "HW4.ipynb" and "HW4.py".
+* Ensure all outputs are printed in the notebook (.ipynb) and do not clear the outputs before submission.
 * The autograder results will be available immediately—please check to ensure you receive the full score.
